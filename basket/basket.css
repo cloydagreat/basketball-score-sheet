@@ -1,0 +1,53 @@
+/*stylesheet*/
+body{
+	background-color:purple;
+}
+
+.content{
+	display:flex;
+	justify-content: space-around;
+	background-color:yellow;
+}
+
+
+.board{
+	width:150px;
+	height:150px;
+	background:black;
+	color:red;
+	font-size:100px;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+	
+}
+
+.header{
+	font-size:42px;
+	color:green;
+	font-weight: 900px;
+}
+
+.but{
+	width:40px;
+	height:20px;
+	margin:20px 4px;
+	background: green;
+	color:white;
+	border-radius:5px;
+
+}
+
+
+.coll{
+	font-size:250px;
+}
+
+.word{
+	display:flex;
+	justify-content:center;
+	align-items:flex-end;
+	font-size:100px;
+	color:yellow;
+	font-family:cursive;
+}
